@@ -1,0 +1,46 @@
+# YSOType spectral-type -> effective-temperature scale
+# STATUS: UNVERIFIED -- placeholder values, approximately following the
+#   young-star scales of Pecaut & Mamajek (2013, Table 6; < M5),
+#   Herczeg & Hillenbrand (2014, Table 5; >= M5) and
+#   Filippazzo et al. (2015, young relation; L types).
+# Replace every row with the exact values of the scale you adopt, then delete
+# the STATUS line above (the code warns while it is present).
+# Teff must decrease monotonically. K7 is followed directly by M0.
+spt,teff_K,source
+G8,5300,PM13
+K0,5050,PM13
+K1,4950,PM13
+K2,4800,PM13
+K3,4600,PM13
+K4,4400,PM13
+K5,4200,PM13
+K6,4050,PM13
+K7,3970,PM13
+M0,3800,PM13
+M0.5,3720,PM13
+M1,3630,PM13
+M1.5,3560,PM13
+M2,3490,PM13
+M2.5,3420,PM13
+M3,3360,PM13
+M3.5,3300,PM13
+M4,3190,PM13
+M4.5,3070,PM13
+M5,2980,HH14
+M5.5,2920,HH14
+M6,2860,HH14
+M6.5,2770,HH14
+M7,2670,HH14
+M7.5,2600,HH14
+M8,2550,HH14
+M8.5,2470,HH14
+M9,2400,HH14
+M9.5,2330,HH14
+L0,2250,F15
+L1,2150,F15
+L2,2050,F15
+L3,1950,F15
+L4,1850,F15
+L5,1750,F15
+L6,1650,F15
+L7,1550,F15
